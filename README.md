@@ -7,4 +7,3 @@
 - cada minuto adicional cuesta 50 pesos
 
 ![diagrama de flujo](diagrama.png  "diagrama de flujo")
-
