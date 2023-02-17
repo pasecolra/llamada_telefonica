@@ -6,5 +6,5 @@
 - toda llamada que dure 3 minutos o menos tiene un costo de 300 pesos
 - cada minuto adicional cuesta 50 pesos
 
-![diagrama de flujo](diagrama.png "diagrama de flujo")
+![diagrama de flujo](diagrama.png  "diagrama de flujo")
 

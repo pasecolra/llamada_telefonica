@@ -10,10 +10,10 @@ else:
 
 
 if Y > 999:
-    msj = " mil "
+    msj = "mil "
 
 else:
-    msj = " pesos "
+    msj = "pesos "
 
 #output
 
